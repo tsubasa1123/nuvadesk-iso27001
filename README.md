@@ -1,6 +1,6 @@
 # Mission de conformité ISO/IEC 27001:2022 — NuvaDesk SAS
 
-> **Cas d'étude fictif** réalisé dans le cadre de mon portfolio GRC. NuvaDesk SAS, ses salariés, ses clients et ses chiffres sont inventés ; la méthode, les référentiels et l'outillage sont réels.
+> **Cas d'étude** réalisé dans le cadre de mon portfolio GRC. NuvaDesk SAS, ses salariés, ses clients et ses chiffres sont inventés ; la méthode, les référentiels et l'outillage sont réels.
 
 Accompagnement d'une PME SaaS vers la certification ISO 27001, de l'analyse d'écarts à la revue de direction, avec une analyse de risques EBIOS RM et un SMSI piloté dans **CISO Assistant** (auto-hébergé sous Docker).
 
